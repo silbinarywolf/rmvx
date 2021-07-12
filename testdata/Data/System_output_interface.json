@@ -1,0 +1,529 @@
+{
+	"@_": 7829367,
+	"@airship": {
+		"@bgm": {
+			"@name": "Airship",
+			"@pitch": 100,
+			"@volume": 100
+		},
+		"@character_index": 3,
+		"@character_name": "Vehicle",
+		"@start_map_id": 0,
+		"@start_x": 0,
+		"@start_y": 0
+	},
+	"@armor_types": [
+		"",
+		"General Armour",
+		"Magic Armour",
+		"Light Armour",
+		"Heavy Armour",
+		"Small Shield",
+		"Large Shield"
+	],
+	"@battle_bgm": {
+		"@name": "Battle1",
+		"@pitch": 100,
+		"@volume": 100
+	},
+	"@battle_end_me": {
+		"@name": "Victory1",
+		"@pitch": 100,
+		"@volume": 100
+	},
+	"@battleback1_name": "Grassland",
+	"@battleback2_name": "Grassland",
+	"@battler_hue": 0,
+	"@battler_name": "Assassin",
+	"@boat": {
+		"@bgm": {
+			"@name": "Ship",
+			"@pitch": 100,
+			"@volume": 100
+		},
+		"@character_index": 0,
+		"@character_name": "Vehicle",
+		"@start_map_id": 0,
+		"@start_x": 0,
+		"@start_y": 0
+	},
+	"@currency_unit": "G",
+	"@edit_map_id": 1,
+	"@elements": [
+		"",
+		"Physical",
+		"Absorb",
+		"Fire",
+		"Ice",
+		"Thunder",
+		"Water",
+		"Earth",
+		"Wind",
+		"Holy",
+		"Dark"
+	],
+	"@game_title": "Duo",
+	"@gameover_me": {
+		"@name": "Gameover1",
+		"@pitch": 100,
+		"@volume": 100
+	},
+	"@japanese": false,
+	"@magic_number": 77696160,
+	"@opt_display_tp": true,
+	"@opt_draw_title": true,
+	"@opt_extra_exp": false,
+	"@opt_floor_death": false,
+	"@opt_followers": true,
+	"@opt_slip_death": false,
+	"@opt_transparent": false,
+	"@opt_use_midi": false,
+	"@party_members": [
+		2,
+		1
+	],
+	"@ship": {
+		"@bgm": {
+			"@name": "Ship",
+			"@pitch": 100,
+			"@volume": 100
+		},
+		"@character_index": 1,
+		"@character_name": "Vehicle",
+		"@start_map_id": 0,
+		"@start_x": 0,
+		"@start_y": 0
+	},
+	"@skill_types": [
+		"",
+		"Special",
+		"Magic"
+	],
+	"@sounds": [
+		{
+			"@name": "",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Buzzer1",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Equip1",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Save",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Load",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Battle1",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Run",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Attack3",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Damage4",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Collapse1",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Collapse3",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Collapse4",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Damage5",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Collapse2",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Recovery",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Miss",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Evasion1",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Evasion2",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Reflection",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Shop",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Item3",
+			"@pitch": 100,
+			"@volume": 80
+		},
+		{
+			"@name": "Item3",
+			"@pitch": 100,
+			"@volume": 80
+		}
+	],
+	"@start_map_id": 1,
+	"@start_x": 8,
+	"@start_y": 10,
+	"@switches": [
+		null,
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"@terms": {
+		"@basic": [
+			"Level",
+			"LV",
+			"HP",
+			"HP",
+			"MP",
+			"MP",
+			"TP",
+			"TP"
+		],
+		"@commands": [
+			"Fight",
+			"Escape",
+			"Attack",
+			"Guard",
+			"Items",
+			"Skills",
+			"Equipment",
+			"Status",
+			"Formation",
+			"Save",
+			"Game End",
+			"",
+			"Weapons",
+			"Armours",
+			"Key Items",
+			"Change",
+			"Optimize",
+			"Clear",
+			"New Game",
+			"Continue",
+			"Shutdown",
+			"To Title",
+			"Cancel",
+			""
+		],
+		"@etypes": [
+			"Weapon",
+			"Shield",
+			"Headgear",
+			"Bodygear",
+			"Accessory"
+		],
+		"@params": [
+			"MaxHP",
+			"MaxMP",
+			"ATK",
+			"DEF",
+			"MAT",
+			"MDF",
+			"AGI",
+			"LUK"
+		]
+	},
+	"@test_battlers": [
+		{
+			"@actor_id": 1,
+			"@equips": [
+				1,
+				46,
+				0,
+				1,
+				0
+			],
+			"@level": 1
+		}
+	],
+	"@test_troop_id": 1,
+	"@title1_name": "Plain",
+	"@title2_name": "Forest",
+	"@title_bgm": {
+		"@name": "",
+		"@pitch": 100,
+		"@volume": 100
+	},
+	"@variables": [
+		null,
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"@version_id": 34936369,
+	"@weapon_types": [
+		"",
+		"Axe",
+		"Claw",
+		"Spear",
+		"Sword",
+		"Katana",
+		"Bow",
+		"Dagger",
+		"Hammer",
+		"Staff",
+		"Gun"
+	],
+	"@window_tone": {
+		"Red": -34,
+		"Green": 0,
+		"Blue": 68,
+		"Gray": 0
+	}
+}

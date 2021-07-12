@@ -1,0 +1,68 @@
+[
+	{
+		"characterIndex": 0,
+		"characterName": "",
+		"classId": 0,
+		"description": "",
+		"equips": null,
+		"faceIndex": 0,
+		"faceName": "",
+		"features": null,
+		"id": 0,
+		"initialLevel": 0,
+		"maxLevel": 0,
+		"name": "",
+		"nickname": "",
+		"note": ""
+	},
+	{
+		"characterIndex": 6,
+		"characterName": "Her",
+		"classId": 1,
+		"description": "A veteran warrior who fought on many battlefields.\r\nHe becomes uncontrollable in battle when berserk.",
+		"equips": [
+			1,
+			46,
+			0,
+			1,
+			0
+		],
+		"faceIndex": 0,
+		"faceName": "Actor4",
+		"features": [
+			{
+				"code": 11,
+				"dataId": 1,
+				"value": 0.5666
+			}
+		],
+		"id": 1,
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "Him",
+		"nickname": "Him",
+		"note": ""
+	},
+	{
+		"characterIndex": 4,
+		"characterName": "Her",
+		"classId": 2,
+		"description": "Her father is a master assassin. Throughout her\r\nyouth, she mastered the techniques of fighting.",
+		"equips": [
+			7,
+			0,
+			0,
+			1,
+			0
+		],
+		"faceIndex": 1,
+		"faceName": "Actor4",
+		"features": [],
+		"id": 2,
+		"initialLevel": 1,
+		"maxLevel": 99,
+		"name": "Her",
+		"nickname": "Her",
+		"note": ""
+	}
+]
