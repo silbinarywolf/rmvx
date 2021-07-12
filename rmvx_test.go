@@ -1,7 +1,6 @@
 package rmvx
 
 import (
-	"bytes"
 	"encoding/json"
 	"errors"
 	"flag"
@@ -13,6 +12,7 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/silbinarywolf/rmvx/internal/jsondiff"
 	"github.com/silbinarywolf/rmvx/internal/rubymarshal"
 )
 
@@ -219,7 +219,9 @@ func assertDecodeMatchesJSON(t *testing.T, fileName string, input []byte, v inte
 	if err != nil {
 		t.Fatal(err)
 	}
-	if !bytes.Equal(output, expectedOutput) {
-		t.Fatalf("expected output to equal contents of \"%s\"", outputFilename)
+	opts := jsondiff.DefaultConsoleOptions()
+	diff, str := jsondiff.Compare(output, expectedOutput, &opts)
+	if diff != jsondiff.FullMatch {
+		t.Fatalf("expected output to equal contents of \"%s\"\n\n%s", outputFilename, str)
 	}
 }
