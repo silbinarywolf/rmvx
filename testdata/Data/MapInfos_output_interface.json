@@ -1,0 +1,18 @@
+{
+	"1": {
+		"@expanded": false,
+		"@name": "Start",
+		"@order": 1,
+		"@parent_id": 0,
+		"@scroll_x": 400,
+		"@scroll_y": 400
+	},
+	"2": {
+		"@expanded": false,
+		"@name": "MAP002",
+		"@order": 2,
+		"@parent_id": 0,
+		"@scroll_x": 272,
+		"@scroll_y": 208
+	}
+}

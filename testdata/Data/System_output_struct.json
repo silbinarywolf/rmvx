@@ -1,0 +1,528 @@
+{
+	"MagicNumber": 77696160,
+	"boat": {
+		"bgm": {
+			"name": "Ship",
+			"pitch": 100,
+			"volume": 100
+		},
+		"characterIndex": 0,
+		"characterName": "Vehicle",
+		"startMapId": 0,
+		"startX": 0,
+		"startY": 0
+	},
+	"ship": {
+		"bgm": {
+			"name": "Ship",
+			"pitch": 100,
+			"volume": 100
+		},
+		"characterIndex": 1,
+		"characterName": "Vehicle",
+		"startMapId": 0,
+		"startX": 0,
+		"startY": 0
+	},
+	"airship": {
+		"bgm": {
+			"name": "Airship",
+			"pitch": 100,
+			"volume": 100
+		},
+		"characterIndex": 3,
+		"characterName": "Vehicle",
+		"startMapId": 0,
+		"startX": 0,
+		"startY": 0
+	},
+	"armorTypes": [
+		"",
+		"General Armour",
+		"Magic Armour",
+		"Light Armour",
+		"Heavy Armour",
+		"Small Shield",
+		"Large Shield"
+	],
+	"battleBgm": {
+		"name": "Battle1",
+		"pitch": 100,
+		"volume": 100
+	},
+	"victoryMe": {
+		"name": "Victory1",
+		"pitch": 100,
+		"volume": 100
+	},
+	"battleBack1Name": "Grassland",
+	"battleBack2Name": "Grassland",
+	"battlerHue": 0,
+	"battlerName": "Assassin",
+	"currencyUnit": "G",
+	"editMapId": 1,
+	"elements": [
+		"",
+		"Physical",
+		"Absorb",
+		"Fire",
+		"Ice",
+		"Thunder",
+		"Water",
+		"Earth",
+		"Wind",
+		"Holy",
+		"Dark"
+	],
+	"gameTitle": "Duo",
+	"GameoverMusic": {
+		"name": "Gameover1",
+		"pitch": 100,
+		"volume": 100
+	},
+	"Japanese": false,
+	"optDisplayTp": true,
+	"optDrawTitle": true,
+	"optExtraExp": false,
+	"optFloorDeath": false,
+	"optFollowers": true,
+	"optSlipDeath": false,
+	"optTransparent": false,
+	"UseMidi": false,
+	"partyMembers": [
+		2,
+		1
+	],
+	"skillTypes": [
+		"",
+		"Special",
+		"Magic"
+	],
+	"sounds": [
+		{
+			"name": "",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Buzzer1",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Equip1",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Save",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Load",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Battle1",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Run",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Attack3",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Damage4",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Collapse1",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Collapse3",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Collapse4",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Damage5",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Collapse2",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Recovery",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Miss",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Evasion1",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Evasion2",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Reflection",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Shop",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Item3",
+			"pitch": 100,
+			"volume": 80
+		},
+		{
+			"name": "Item3",
+			"pitch": 100,
+			"volume": 80
+		}
+	],
+	"startMapId": 1,
+	"startX": 8,
+	"startY": 10,
+	"switches": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"variables": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"terms": {
+		"basic": [
+			"Level",
+			"LV",
+			"HP",
+			"HP",
+			"MP",
+			"MP",
+			"TP",
+			"TP"
+		],
+		"commands": [
+			"Fight",
+			"Escape",
+			"Attack",
+			"Guard",
+			"Items",
+			"Skills",
+			"Equipment",
+			"Status",
+			"Formation",
+			"Save",
+			"Game End",
+			"",
+			"Weapons",
+			"Armours",
+			"Key Items",
+			"Change",
+			"Optimize",
+			"Clear",
+			"New Game",
+			"Continue",
+			"Shutdown",
+			"To Title",
+			"Cancel",
+			""
+		],
+		"etypes": [
+			"Weapon",
+			"Shield",
+			"Headgear",
+			"Bodygear",
+			"Accessory"
+		],
+		"params": [
+			"MaxHP",
+			"MaxMP",
+			"ATK",
+			"DEF",
+			"MAT",
+			"MDF",
+			"AGI",
+			"LUK"
+		]
+	},
+	"testBattlers": [
+		{
+			"level": 1,
+			"actorId": 1,
+			"equips": [
+				1,
+				46,
+				0,
+				1,
+				0
+			]
+		}
+	],
+	"testTroopId": 1,
+	"title1Name": "Plain",
+	"title2Name": "Forest",
+	"titleBgm": {
+		"name": "",
+		"pitch": 100,
+		"volume": 100
+	},
+	"versionId": 34936369,
+	"weaponTypes": [
+		"",
+		"Axe",
+		"Claw",
+		"Spear",
+		"Sword",
+		"Katana",
+		"Bow",
+		"Dagger",
+		"Hammer",
+		"Staff",
+		"Gun"
+	],
+	"windowToneVX": {
+		"Red": -34,
+		"Green": 0,
+		"Blue": 68,
+		"Gray": 0
+	}
+}
